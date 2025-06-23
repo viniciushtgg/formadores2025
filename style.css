@@ -1,7 +1,8 @@
 body {
     background-color: black;
     color: goldenrod;
-  font-family: "Quicksand", sans-serif;
+    font-family: "Quicksand", sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -14,4 +15,5 @@ p {
 
 header {
     font-size: 60px;
+    border: solid 2px red;
 }
