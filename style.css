@@ -1,19 +1,22 @@
 body {
-    background-color: black;
-    color: goldenrod;
+    background-color: rgb(31, 23, 0);
+    color: rgb(252, 193, 44);
     font-family: "Quicksand", sans-serif;
-    margin: 0px;
+    margin: 0px 20px;
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 30px;
+
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 header {
     font-size: 60px;
-    border: solid 2px red;
+    border-bottom: solid 2px rgb(252, 193, 44);
+    padding: 30px;
+    font-weight: bold;
 }
